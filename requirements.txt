@@ -6,5 +6,5 @@ langchain_community
 PyPDF2 
 google-generativeai 
 markdown
-
+nltk==3.8.1
 llama-parse
